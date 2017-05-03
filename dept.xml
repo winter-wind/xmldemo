@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<depts>
+	<dept deptid="1">
+		<deptname>行政部</deptname>
+		<deptnum>20</deptnum>
+		<deptdesc>行政相关</deptdesc>
+	</dept>
+</depts>
